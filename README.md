@@ -14,6 +14,6 @@ pkg install git
 
 git clone https://github.com/FAHIM404-CYBER/Old-https://github.com/Tonmoy175/FST.Voice.Gang.git
 
-cd FST Voice Gang
+cd FST.VoiceG.ang
 
 python FST Voice Gang.py
